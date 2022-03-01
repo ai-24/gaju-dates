@@ -13,7 +13,7 @@ $ npm install gaju-dates
 
 1. Enter your birthday. (yyyy/mm/dd)
    
-<img src="https://user-images.githubusercontent.com/76685187/156134522-5a6ee157-2754-4451-b3c0-7d3ccfa4ba89.png" width=70%>
+   <img src="https://user-images.githubusercontent.com/76685187/156134522-5a6ee157-2754-4451-b3c0-7d3ccfa4ba89.png" width=70%>
    
 2. Enter your name.
    
