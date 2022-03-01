@@ -1,0 +1,28 @@
+{
+  "name": "gaju-dates",
+  "version": "1.0.0",
+  "description": "Show Gaju dates that are celebrated longevity in Japan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ai-24/gaju-dates.git"
+  },
+  "keywords": [
+    "gaju",
+    "賀寿",
+    "長寿祝い"
+  ],
+  "author": "ai-24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ai-24/gaju-dates/issues"
+  },
+  "homepage": "https://github.com/ai-24/gaju-dates#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "luxon": "^2.3.1"
+  }
+}
