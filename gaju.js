@@ -6,7 +6,7 @@ class Gaju {
     const now = DateTime.now()
     const info = await Input.birthdayInfo()
     const peopleInfo = []
-    for (let i = 0; i <= (info.length / 2); i = i + 2) {
+    for (let i = 0; i < (info.length); i = i + 2) {
       const birthday = info[i + 1]
       const age = now.year - birthday.year
       const personInfo = { name: info[i] }
