@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { prompt } = require('enquirer')
 const { DateTime } = require('luxon')
 const { Confirm } = require('enquirer')

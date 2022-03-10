@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { DateTime } = require('luxon')
 const Input = require('./input')
 
