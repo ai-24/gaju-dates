@@ -2,12 +2,12 @@
   "name": "gaju-dates",
   "version": "1.0.2",
   "description": "Show Gaju dates that are celebrated longevity in Japan.",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "gaju-dates": "index.js"
+    "gaju-dates": "./index.js"
   },
   "repository": {
     "type": "git",
