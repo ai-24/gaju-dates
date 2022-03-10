@@ -1,6 +1,6 @@
 {
   "name": "gaju-dates",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Show Gaju dates that are celebrated longevity in Japan.",
   "main": "index.js",
   "scripts": {
